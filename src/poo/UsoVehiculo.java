@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author DANIEL NORIEGA
+ * @author Daniel Noriega
  */
 public class UsoVehiculo {
 

@@ -7,7 +7,7 @@ package poo;
 
 /**
  *
- * @author HP INTEL
+ * @author Daniel Noriega
  */
 public class furgoneta extends coche{
     
